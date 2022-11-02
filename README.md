@@ -1,4 +1,4 @@
-# SomaLogic data analysis
+# SomaLogic data analysis by Dr. Tuncay Delibasi, MD
 
 ## A summary
 
